@@ -21,10 +21,10 @@ p {
   font-size: 16px;
   line-height: 1.6;
   margin-bottom: 18px;
-  color: #000000;
+  color: #ffff;
 }
 h1 {
-    color: green;
+    color: #ffff;
 }
 .ingri{
     padding-left: 300px;
@@ -32,6 +32,7 @@ h1 {
     top: -600px; 
     align-items: center;
     padding-bottom: 5%;
+      color: #ffff;
 }
 .feature-img{
     width: 500px;
@@ -39,6 +40,7 @@ h1 {
     bottom: 40%;
     padding-bottom: 7%;
     padding-right: 300px;
+  
 }
 .img {
     width: 500px;
@@ -60,4 +62,7 @@ h1 {
     padding-top: 5%;
     padding-bottom: 5%;
     padding-right: 5%;
+}
+.small{
+    color: #ffff;
 }
